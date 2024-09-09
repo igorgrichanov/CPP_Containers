@@ -3,7 +3,7 @@ Implementation of the containers.h. library in C++
 
 ## Description
 
-In this project I've developed my own "containers" library that implements the basic C++ container classes: list`, `map`, `queue`, `set`, `multiset`, `stack`, `vector` and `array`. Implementations provide a full set of standard methods and attributes for element handling, container capacity checking and iteration.
+In this project I've developed my own "containers" library that implements the basic C++ container classes: `list`, `map`, `queue`, `set`, `multiset`, `stack`, `vector` and `array`. Implementations provide a full set of standard methods and attributes for element handling, container capacity checking and iteration.
 
 ## Important notes
 
