@@ -53,8 +53,10 @@
 #include <iostream>
 #include <limits>
 
+#include "functions/include/array.h"
 #include "functions/include/list.h"
 #include "functions/include/map.h"
+#include "functions/include/multiset.h"
 #include "functions/include/queue.h"
 #include "functions/include/set.h"
 #include "functions/include/stack.h"
