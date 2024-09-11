@@ -12,7 +12,6 @@ In this project I've developed my own "containers" library that implements the b
 - Full coverage of library functions code has been prepared with unit-tests using the GTest library;
 - Container classes are templates like standard C++ containers;
 - The logic of the Standard Template Library (STL) is followed (in terms of checks, memory handling and behaviour in abnormal situations), but implementation has not been copied;
-- Full coverage of library functions code prepared with unit-tests using the Check library;
 - The gcov_report target generates a gcov report in the form of an html page.
 
 ## Information
